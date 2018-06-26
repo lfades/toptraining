@@ -1,0 +1,23 @@
+{
+  "name": "top-training",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^6.0.4-canary.9",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.5",
+    "eslint": "^5.0.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-babel": "^5.1.0",
+    "eslint-plugin-prettier": "^2.6.1",
+    "node-sass": "^4.9.0",
+    "prettier": "^1.13.5",
+    "styled-jsx-plugin-sass": "^0.2.4"
+  }
+}
